@@ -1,6 +1,6 @@
 # myfirstapp
 
-A new Flutter application.
+A basic Flutter application for gdg_nd.
 
 ## Getting Started
 
